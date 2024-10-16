@@ -33,11 +33,17 @@ This lab involved configuring an Active Directory (AD) environment using Azure V
 
 
 
+
+
 4. **Set Static Private IP for DC-1**  
    Set the Network Interface (NIC) of DC-1 to have a **static private IP address** for DNS consistency.
+
+   
    
 
  <img width="438" alt="Screenshot 2024-10-15 110201" src="https://github.com/user-attachments/assets/c77228e3-1085-4b2a-bd45-009d0351048b">
+
+ 
 
 
 5. **Disable Windows Firewall on DC-1**  
